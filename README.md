@@ -26,10 +26,12 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0162-find-peak-element) |
+| [0035-search-insert-position](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0162-find-peak-element) |
+| [0035-search-insert-position](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0035-search-insert-position) |
 ## Bit Manipulation
 |  |
 | ------- |
