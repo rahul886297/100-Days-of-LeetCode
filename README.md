@@ -8,6 +8,7 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [0009-palindrome-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1013-fibonacci-number) |
+| [0231-power-of-two](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1013-fibonacci-number) |
+| [0231-power-of-two](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -28,4 +30,8 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0162-find-peak-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
