@@ -36,12 +36,14 @@ Tracking my 100 Days of LeetCode progress
 | [0001-two-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0001-two-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0162-find-peak-element) |
 | [0035-search-insert-position](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,4 +64,8 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
