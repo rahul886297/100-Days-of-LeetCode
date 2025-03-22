@@ -39,6 +39,7 @@ Tracking my 100 Days of LeetCode progress
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
+| [0027-remove-element](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,4 +75,8 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
