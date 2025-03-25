@@ -13,6 +13,7 @@ Tracking my 100 Days of LeetCode progress
 | [1642-water-bottles](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1642-water-bottles) |
 | [1031-add-to-array-form-of-integer](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0319-bulb-switcher) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +88,8 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
