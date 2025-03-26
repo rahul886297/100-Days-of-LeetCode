@@ -43,6 +43,7 @@ Tracking my 100 Days of LeetCode progress
 | [0027-remove-element](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Tracking my 100 Days of LeetCode progress
 | [0540-single-element-in-a-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [0027-remove-element](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
