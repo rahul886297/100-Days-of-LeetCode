@@ -44,6 +44,7 @@ Tracking my 100 Days of LeetCode progress
 | [1019-squares-of-a-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Tracking my 100 Days of LeetCode progress
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
