@@ -45,6 +45,7 @@ Tracking my 100 Days of LeetCode progress
 | [0238-product-of-array-except-self](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Tracking my 100 Days of LeetCode progress
 | [0027-remove-element](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -97,4 +99,8 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0319-bulb-switcher) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
