@@ -47,6 +47,7 @@ Tracking my 100 Days of LeetCode progress
 | [0748-largest-number-at-least-twice-of-others](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
