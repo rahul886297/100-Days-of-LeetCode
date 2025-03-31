@@ -48,6 +48,7 @@ Tracking my 100 Days of LeetCode progress
 | [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [0001-two-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +108,8 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
