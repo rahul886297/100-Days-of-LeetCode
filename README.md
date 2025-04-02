@@ -50,6 +50,7 @@ Tracking my 100 Days of LeetCode progress
 | [1927-maximum-ascending-subarray-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0792-binary-search](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0792-binary-search) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Tracking my 100 Days of LeetCode progress
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0792-binary-search) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
