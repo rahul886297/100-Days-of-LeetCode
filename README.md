@@ -123,4 +123,8 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+## String
+|  |
+| ------- |
+| [1542-consecutive-characters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1542-consecutive-characters) |
 <!---LeetCode Topics End-->
