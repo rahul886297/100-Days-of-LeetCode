@@ -19,6 +19,7 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [1013-fibonacci-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Tracking my 100 Days of LeetCode progress
 | [0033-search-in-rotated-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0075-sort-colors) |
+| [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
