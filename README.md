@@ -20,6 +20,7 @@ Tracking my 100 Days of LeetCode progress
 | [1013-fibonacci-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
+| [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Tracking my 100 Days of LeetCode progress
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0075-sort-colors) |
 | [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
+| [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Tracking my 100 Days of LeetCode progress
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0075-sort-colors) |
+| [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,4 +133,12 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [1542-consecutive-characters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1542-consecutive-characters) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
