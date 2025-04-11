@@ -58,6 +58,7 @@ Tracking my 100 Days of LeetCode progress
 | [0075-sort-colors](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0075-sort-colors) |
 | [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
 | [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Tracking my 100 Days of LeetCode progress
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Tracking my 100 Days of LeetCode progress
 | [1019-squares-of-a-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0075-sort-colors](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0075-sort-colors) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
