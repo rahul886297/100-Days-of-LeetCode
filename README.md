@@ -59,6 +59,7 @@ Tracking my 100 Days of LeetCode progress
 | [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
 | [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [0179-largest-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Tracking my 100 Days of LeetCode progress
 | [0748-largest-number-at-least-twice-of-others](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0075-sort-colors](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0075-sort-colors) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [0179-largest-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0179-largest-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0179-largest-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0179-largest-number) |
 ## Counting
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [1542-consecutive-characters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1542-consecutive-characters) |
+| [0179-largest-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
