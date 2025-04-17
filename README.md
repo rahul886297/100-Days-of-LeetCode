@@ -155,6 +155,7 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,4 +164,8 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
