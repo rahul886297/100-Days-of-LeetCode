@@ -65,6 +65,7 @@ Tracking my 100 Days of LeetCode progress
 | [0066-plus-one](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0066-plus-one) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [0128-longest-consecutive-sequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Tracking my 100 Days of LeetCode progress
 | [0001-two-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [0128-longest-consecutive-sequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -177,4 +179,8 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
