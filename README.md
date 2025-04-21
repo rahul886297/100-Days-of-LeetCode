@@ -66,6 +66,7 @@ Tracking my 100 Days of LeetCode progress
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [0128-longest-consecutive-sequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,11 +82,13 @@ Tracking my 100 Days of LeetCode progress
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +132,7 @@ Tracking my 100 Days of LeetCode progress
 | [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0075-sort-colors) |
 | [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
