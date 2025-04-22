@@ -67,6 +67,7 @@ Tracking my 100 Days of LeetCode progress
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [0128-longest-consecutive-sequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1127-last-stone-weight](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1127-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1127-last-stone-weight](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1127-last-stone-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
