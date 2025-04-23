@@ -68,6 +68,7 @@ Tracking my 100 Days of LeetCode progress
 | [0128-longest-consecutive-sequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1127-last-stone-weight](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1127-last-stone-weight) |
+| [0724-find-pivot-index](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0724-find-pivot-index) |
 ## Brainteaser
 |  |
 | ------- |
