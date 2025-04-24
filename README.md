@@ -69,6 +69,7 @@ Tracking my 100 Days of LeetCode progress
 | [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1127-last-stone-weight](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1127-last-stone-weight) |
 | [0724-find-pivot-index](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0724-find-pivot-index) |
+| [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Tracking my 100 Days of LeetCode progress
 | [0179-largest-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Tracking my 100 Days of LeetCode progress
 | [0075-sort-colors](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0075-sort-colors) |
 | [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Tracking my 100 Days of LeetCode progress
 | [0011-container-with-most-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0179-largest-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0179-largest-number) |
+| [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
