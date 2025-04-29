@@ -140,6 +140,7 @@ Tracking my 100 Days of LeetCode progress
 | [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
 | [0151-reverse-words-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0443-string-compression) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Tracking my 100 Days of LeetCode progress
 | [0058-length-of-last-word](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0151-reverse-words-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
