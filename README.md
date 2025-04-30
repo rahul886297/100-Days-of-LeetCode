@@ -27,6 +27,7 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [1013-fibonacci-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1013-fibonacci-number) |
 | [0231-power-of-two](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
 ## Memoization
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Tracking my 100 Days of LeetCode progress
 | [0316-remove-duplicate-letters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0151-reverse-words-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0443-string-compression) |
+| [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Tracking my 100 Days of LeetCode progress
 | [0225-implement-stack-using-queues](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
