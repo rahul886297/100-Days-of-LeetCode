@@ -143,6 +143,7 @@ Tracking my 100 Days of LeetCode progress
 | [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
 | [0151-reverse-words-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0443-string-compression) |
+| [0125-valid-palindrome](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0125-valid-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Tracking my 100 Days of LeetCode progress
 | [0443-string-compression](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0443-string-compression) |
 | [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [0125-valid-palindrome](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
