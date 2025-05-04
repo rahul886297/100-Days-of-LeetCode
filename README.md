@@ -161,6 +161,7 @@ Tracking my 100 Days of LeetCode progress
 | [0179-largest-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0179-largest-number) |
 | [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
 | [0316-remove-duplicate-letters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Counting
 |  |
 | ------- |
@@ -179,6 +180,7 @@ Tracking my 100 Days of LeetCode progress
 | [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [0125-valid-palindrome](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0125-valid-palindrome) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Tracking my 100 Days of LeetCode progress
 | [0232-implement-queue-using-stacks](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
