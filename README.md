@@ -105,6 +105,7 @@ Tracking my 100 Days of LeetCode progress
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [0128-longest-consecutive-sequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [0242-valid-anagram](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Tracking my 100 Days of LeetCode progress
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
+| [0242-valid-anagram](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Tracking my 100 Days of LeetCode progress
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [0125-valid-palindrome](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0125-valid-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0242-valid-anagram](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
