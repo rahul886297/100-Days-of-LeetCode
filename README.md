@@ -71,6 +71,7 @@ Tracking my 100 Days of LeetCode progress
 | [1127-last-stone-weight](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1127-last-stone-weight) |
 | [0724-find-pivot-index](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
+| [1677-matrix-diagonal-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,4 +219,8 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
