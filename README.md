@@ -72,6 +72,7 @@ Tracking my 100 Days of LeetCode progress
 | [0724-find-pivot-index](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
 | [1677-matrix-diagonal-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [0898-transpose-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0898-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1642-water-bottles) |
+| [0898-transpose-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,4 +225,5 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [0898-transpose-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
