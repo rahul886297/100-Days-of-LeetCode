@@ -74,6 +74,7 @@ Tracking my 100 Days of LeetCode progress
 | [1677-matrix-diagonal-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [0898-transpose-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0898-transpose-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Tracking my 100 Days of LeetCode progress
 | [2210-find-target-indices-after-sorting-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0074-search-a-2d-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,4 +231,5 @@ Tracking my 100 Days of LeetCode progress
 | [1677-matrix-diagonal-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [0898-transpose-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0898-transpose-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
