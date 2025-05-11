@@ -15,6 +15,7 @@ Tracking my 100 Days of LeetCode progress
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0319-bulb-switcher) |
 | [0066-plus-one](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0066-plus-one) |
+| [0048-rotate-image](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0048-rotate-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Tracking my 100 Days of LeetCode progress
 | [0898-transpose-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0898-transpose-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0048-rotate-image](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -232,4 +234,5 @@ Tracking my 100 Days of LeetCode progress
 | [0898-transpose-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0898-transpose-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0048-rotate-image](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
