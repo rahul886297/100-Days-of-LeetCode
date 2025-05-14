@@ -29,6 +29,7 @@ Tracking my 100 Days of LeetCode progress
 | [1013-fibonacci-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1013-fibonacci-number) |
 | [0231-power-of-two](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
+| [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Tracking my 100 Days of LeetCode progress
 | [0151-reverse-words-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0443-string-compression) |
 | [0125-valid-palindrome](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Tracking my 100 Days of LeetCode progress
 | [0316-remove-duplicate-letters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -235,4 +238,8 @@ Tracking my 100 Days of LeetCode progress
 | [0059-spiral-matrix-ii](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0048-rotate-image](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
