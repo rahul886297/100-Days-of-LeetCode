@@ -30,6 +30,7 @@ Tracking my 100 Days of LeetCode progress
 | [0231-power-of-two](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Memoization
 |  |
 | ------- |
@@ -242,4 +243,5 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0021-merge-two-sorted-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
