@@ -244,4 +244,5 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
