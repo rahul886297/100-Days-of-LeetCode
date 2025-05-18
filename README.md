@@ -16,6 +16,7 @@ Tracking my 100 Days of LeetCode progress
 | [0319-bulb-switcher](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0319-bulb-switcher) |
 | [0066-plus-one](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0066-plus-one) |
 | [0048-rotate-image](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0048-rotate-image) |
+| [0002-add-two-numbers](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0002-add-two-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Tracking my 100 Days of LeetCode progress
 | [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0002-add-two-numbers](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0002-add-two-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -245,4 +247,5 @@ Tracking my 100 Days of LeetCode progress
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0002-add-two-numbers](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
