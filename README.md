@@ -17,6 +17,7 @@ Tracking my 100 Days of LeetCode progress
 | [0066-plus-one](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0066-plus-one) |
 | [0048-rotate-image](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0048-rotate-image) |
 | [0002-add-two-numbers](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0002-add-two-numbers) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Tracking my 100 Days of LeetCode progress
 | [0394-decode-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -248,4 +250,5 @@ Tracking my 100 Days of LeetCode progress
 | [0021-merge-two-sorted-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0002-add-two-numbers](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0002-add-two-numbers) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
