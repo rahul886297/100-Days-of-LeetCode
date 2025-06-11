@@ -120,6 +120,7 @@ Tracking my 100 Days of LeetCode progress
 | [0128-longest-consecutive-sequence](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [0242-valid-anagram](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0242-valid-anagram) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Tracking my 100 Days of LeetCode progress
 | [0443-string-compression](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0443-string-compression) |
 | [0125-valid-palindrome](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,4 +254,5 @@ Tracking my 100 Days of LeetCode progress
 | [0002-add-two-numbers](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0002-add-two-numbers) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
