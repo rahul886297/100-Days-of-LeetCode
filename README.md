@@ -163,6 +163,7 @@ Tracking my 100 Days of LeetCode progress
 | [0125-valid-palindrome](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -255,4 +256,5 @@ Tracking my 100 Days of LeetCode progress
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
