@@ -83,6 +83,7 @@ Tracking my 100 Days of LeetCode progress
 | [0059-spiral-matrix-ii](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0048-rotate-image](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0048-rotate-image) |
+| [1072-next-greater-node-in-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,11 +220,13 @@ Tracking my 100 Days of LeetCode progress
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [1072-next-greater-node-in-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Quickselect
 |  |
 | ------- |
@@ -266,4 +269,5 @@ Tracking my 100 Days of LeetCode progress
 | [0141-linked-list-cycle](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [1072-next-greater-node-in-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
