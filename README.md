@@ -281,4 +281,20 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
