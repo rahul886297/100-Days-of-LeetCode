@@ -101,12 +101,14 @@ Tracking my 100 Days of LeetCode progress
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0074-search-a-2d-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0222-count-complete-tree-nodes](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Simulation
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -297,4 +300,5 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
