@@ -288,17 +288,21 @@ Tracking my 100 Days of LeetCode progress
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
+| [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
+| [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
