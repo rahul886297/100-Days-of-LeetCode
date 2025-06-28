@@ -227,6 +227,7 @@ Tracking my 100 Days of LeetCode progress
 | [0234-palindrome-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -289,11 +290,13 @@ Tracking my 100 Days of LeetCode progress
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
 | [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -305,4 +308,5 @@ Tracking my 100 Days of LeetCode progress
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
