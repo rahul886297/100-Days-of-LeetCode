@@ -214,6 +214,7 @@ Tracking my 100 Days of LeetCode progress
 | [0125-valid-palindrome](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0125-valid-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0242-valid-anagram](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
 | ------- |
@@ -292,12 +293,14 @@ Tracking my 100 Days of LeetCode progress
 | [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0257-binary-tree-paths](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1005-univalued-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1005-univalued-binary-tree) |
 | [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -312,4 +315,9 @@ Tracking my 100 Days of LeetCode progress
 | [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0257-binary-tree-paths](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
