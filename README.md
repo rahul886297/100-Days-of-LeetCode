@@ -297,6 +297,7 @@ Tracking my 100 Days of LeetCode progress
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0112-path-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -306,6 +307,7 @@ Tracking my 100 Days of LeetCode progress
 | [0257-binary-tree-paths](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0110-balanced-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0112-path-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Tracking my 100 Days of LeetCode progress
 | [0101-symmetric-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -325,6 +328,7 @@ Tracking my 100 Days of LeetCode progress
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0112-path-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0112-path-sum) |
 ## Backtracking
 |  |
 | ------- |
