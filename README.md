@@ -300,6 +300,7 @@ Tracking my 100 Days of LeetCode progress
 | [0112-path-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@ Tracking my 100 Days of LeetCode progress
 | [0112-path-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Tracking my 100 Days of LeetCode progress
 | [0112-path-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
