@@ -25,6 +25,7 @@ Tracking my 100 Days of LeetCode progress
 | [1236-n-th-tribonacci-number](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
 | [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Tracking my 100 Days of LeetCode progress
 | [0074-search-a-2d-matrix](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0048-rotate-image](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0048-rotate-image) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
