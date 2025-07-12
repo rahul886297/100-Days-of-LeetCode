@@ -86,6 +86,7 @@ Tracking my 100 Days of LeetCode progress
 | [0048-rotate-image](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0048-rotate-image) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Tracking my 100 Days of LeetCode progress
 | [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0023-merge-k-sorted-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -303,6 +305,7 @@ Tracking my 100 Days of LeetCode progress
 | [0199-binary-tree-right-side-view](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,6 +345,7 @@ Tracking my 100 Days of LeetCode progress
 | [0199-binary-tree-right-side-view](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -350,4 +354,5 @@ Tracking my 100 Days of LeetCode progress
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
