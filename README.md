@@ -306,6 +306,7 @@ Tracking my 100 Days of LeetCode progress
 | [0226-invert-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -319,6 +320,7 @@ Tracking my 100 Days of LeetCode progress
 | [0199-binary-tree-right-side-view](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -329,6 +331,7 @@ Tracking my 100 Days of LeetCode progress
 | [0112-path-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +349,7 @@ Tracking my 100 Days of LeetCode progress
 | [0226-invert-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Backtracking
 |  |
 | ------- |
