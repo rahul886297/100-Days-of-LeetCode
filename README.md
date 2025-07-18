@@ -310,6 +310,7 @@ Tracking my 100 Days of LeetCode progress
 | [0783-search-in-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -325,6 +326,7 @@ Tracking my 100 Days of LeetCode progress
 | [0543-diameter-of-binary-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -357,6 +359,7 @@ Tracking my 100 Days of LeetCode progress
 | [0783-search-in-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -369,4 +372,5 @@ Tracking my 100 Days of LeetCode progress
 | [0783-search-in-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
