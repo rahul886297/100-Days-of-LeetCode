@@ -161,6 +161,7 @@ Tracking my 100 Days of LeetCode progress
 | [0023-merge-k-sorted-lists](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -199,6 +200,7 @@ Tracking my 100 Days of LeetCode progress
 | [0917-boats-to-save-people](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0917-boats-to-save-people) |
 | [0316-remove-duplicate-letters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Tracking my 100 Days of LeetCode progress
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,6 +333,7 @@ Tracking my 100 Days of LeetCode progress
 | [0617-merge-two-binary-trees](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -364,6 +368,7 @@ Tracking my 100 Days of LeetCode progress
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -378,4 +383,5 @@ Tracking my 100 Days of LeetCode progress
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
