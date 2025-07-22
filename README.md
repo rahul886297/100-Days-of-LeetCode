@@ -318,6 +318,7 @@ Tracking my 100 Days of LeetCode progress
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -336,6 +337,7 @@ Tracking my 100 Days of LeetCode progress
 | [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -373,6 +375,7 @@ Tracking my 100 Days of LeetCode progress
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1254-deepest-leaves-sum](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -388,4 +391,5 @@ Tracking my 100 Days of LeetCode progress
 | [0098-validate-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
