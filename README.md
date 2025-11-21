@@ -182,6 +182,7 @@ Tracking my 100 Days of LeetCode progress
 | [0141-linked-list-cycle](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Tracking my 100 Days of LeetCode progress
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0242-valid-anagram](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -392,4 +394,8 @@ Tracking my 100 Days of LeetCode progress
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
