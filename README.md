@@ -26,6 +26,7 @@ Tracking my 100 Days of LeetCode progress
 | [0053-maximum-subarray](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0053-maximum-subarray) |
 | [0042-trapping-rain-water](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0005-longest-palindromic-substring](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0005-longest-palindromic-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Tracking my 100 Days of LeetCode progress
 | [0142-linked-list-cycle-ii](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0005-longest-palindromic-substring](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0005-longest-palindromic-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Tracking my 100 Days of LeetCode progress
 | [0257-binary-tree-paths](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rahul886297/100-Days-of-LeetCode/tree/master/0005-longest-palindromic-substring) |
 ## Stack
 |  |
 | ------- |
